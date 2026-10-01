@@ -224,7 +224,7 @@ The built-in chat view features:
 
 ## License
 
-MIT Licensed. © 2026 Preet3627 (Latestinssan). The WhatsApp bridge incorporates code from [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) by Luke Harries.
+MIT Licensed. © 2026 Latestinssan. The WhatsApp bridge incorporates code from [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) by Luke Harries.
 
 ## Documentation
 
